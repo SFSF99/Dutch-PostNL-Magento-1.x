@@ -45,3 +45,14 @@ The logic of this module is as follows:
 - a rate class option is not displayed if the weight is greater than the maximum weight for that rate class option AND no multiple boxes are allowed/enabled for that option
 
 - if a COD option is choosen, only the payment modules 'COD' are displayed (if installed, otherwise all; e.g. Cash On Delivery is a COD module)
+
+So what do you need to do for this extension:
+- download .zip file and unpack
+- copy contents to your Magento root directory (where you see directory /app)
+- clear cache (and mostly logoff and login admin again) and reindex
+
+Extension support:
+
+No support (too busy), but a few questions will be answered in the Magento forum (see link above).
+
+Questions will be NEVER answered per email!
