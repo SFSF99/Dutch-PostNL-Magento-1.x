@@ -2,7 +2,7 @@
 
 Dutch PostNL (Parcelware) manual rates packages and letters national and international with letter logic, letterbox post (brievenbus pakje post)
 
-(questions at <a href="http://ooawebstore.freeforums.org/">Magento Forum</a>)
+(questions at <a href="https://ooawebstore.freeforums.org/">Magento Forum</a>)
 
 (more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
 
