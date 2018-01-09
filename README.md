@@ -2,10 +2,6 @@
 
 Dutch PostNL (Parcelware) manual rates packages and letters national and international with letter logic, letterbox post (brievenbus pakje post)
 
-(see the special email address below for some questions, this extension was for years to download on Magento Connect)
-
-(more info about this module in <a href="https://www.ooawebstore.eu">webstore</a>)
-
 PostNL has an own free module the last years. So you may use this extension as an shipment module or as a code example to learn from. 
 
 Recently tested in 1.8 and 1.9!
@@ -55,4 +51,4 @@ So what do you need to do for this extension:
 
 Extension support:
 
-No support (too busy), but a few questions will be answered on this <a href="mailto:postnl@ooawebstore.eu">special email address</a> (but only domain addresses, no hotmail, gmail etc.).
+No support unfortunately (too busy).
